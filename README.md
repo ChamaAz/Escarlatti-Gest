@@ -25,15 +25,15 @@ npm run dev
 
 ## 📂 Estructura del proyecto
 
-EScarlatti-Gest
-├─ src/
-│ ├─ components/ → Componentes Vue
-│ ├─ router/ → Configuración de rutas
-│ ├─ App.vue
-│ └─ main.js
-│
-├─ package.json
-└─ README.md
+    EScarlatti-Gest
+    ├─ src/
+    │  ├─ components/   → Componentes Vue
+    │  ├─ router/       → Configuración de rutas
+    │  ├─ App.vue
+    │  └─ main.js
+    │
+    ├─ package.json
+    └─ README.md
 
 ## 👤 Autor
 
