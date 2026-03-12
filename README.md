@@ -1,5 +1,7 @@
 ## 🎓 Escarlatti Gest
 
+Frontend desarrollado con Vue.js para la gestión administrativa del centro Escarlatti.
+
 Sistema web de **gestión administrativa para el centro Escarlatti** que permite administrar usuarios, incidencias, reservas y diferentes módulos del sistema desde un panel de administración.
 
 ## 🚀 Tecnologías
