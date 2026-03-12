@@ -1,4 +1,4 @@
-#🎓 Escarlatti Gest
+## 🎓 Escarlatti Gest
 
 Sistema web de **gestión administrativa para el centro Escarlatti** que permite administrar usuarios, incidencias, reservas y diferentes módulos del sistema desde un panel de administración.
 
@@ -16,24 +16,24 @@ npm run dev
 
 ## 📌 Funcionalidades
 
-✅ Gestión de usuarios
-✅ Panel de administración
-✅ Control de permisos
-✅ Gestión de reservas
-✅ Gestión de incidencias
-✅ Administración del sistema
+- ✅ Gestión de usuarios  
+- ✅ Panel de administración  
+- ✅ Control de permisos  
+- ✅ Gestión de reservas  
+- ✅ Gestión de incidencias  
+- ✅ Administración del sistema 
 
 ## 📂 Estructura del proyecto
 
 EScarlatti-Gest
-├ src/
-│ ├ components/ → Componentes Vue
-│ ├ router/ → Configuración de rutas
-│ ├ App.vue
-│ └ main.js
+├─ src/
+│ ├─ components/ → Componentes Vue
+│ ├─ router/ → Configuración de rutas
+│ ├─ App.vue
+│ └─ main.js
 │
-├ package.json
-└ README.md
+├─ package.json
+└─ README.md
 
 ## 👤 Autor
 
