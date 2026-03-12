@@ -1,7 +1,7 @@
 # 🎓 Escarlatti Gest
 
 Frontend desarrollado con **Vue.js** para la gestión administrativa del centro Escarlatti.
-
+Versión 1.0
 Aplicación web que permite administrar usuarios, incidencias, reservas y diferentes módulos del sistema desde un panel de administración centralizado.
 
 ---
@@ -41,6 +41,13 @@ npm run dev
     ├─ package.json
     └─ README.md
 
+---
+
+## 📄 Licencia
+
+Proyecto desarrollado con fines educativos.
+
+---
 ## 👤 Autor
 
 Chaimae Azougagh
