@@ -1,4 +1,4 @@
-# 🎓 Escarlatti Gest
+🎓 Escarlatti Gest
 
 Sistema de gestión para el centro Escarlatti.
 
