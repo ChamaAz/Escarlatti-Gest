@@ -17,9 +17,10 @@ Aplicación web que permite administrar usuarios, incidencias, reservas y difere
 
 ## ⚙️ Instalación
 
+### 1️⃣ Iniciar el servidor (Docker)
+
 ```bash
-npm install
-npm run dev
+docker compose up -d
 ```
 
 ## 📌 Funcionalidades
